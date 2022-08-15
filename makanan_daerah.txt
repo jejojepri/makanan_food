@@ -1,0 +1,315 @@
+1. Mie Aceh
+name: 'Mie Aceh',
+khasDaerah: 'Aceh',
+description:
+        'Terkenal dengan Mie Acehnya. Mie kuning tebal dengan irisan daging disajikan dalam sup sejenis kari yang gurih dan pedas. Makanan ini kaya bumbu dan nikmat habis.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Aceh Mie Aceh',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/mie_aceh.jpg',
+imageUrls: [
+      'https://img.okezone.com/content/2021/06/23/301/2429477/5-kuliner-khas-daerah-yang-mudah-ditemui-di-jakarta-mie-aceh-hingga-bebek-madura-jVskUW5ysb.jpg',
+      'https://mhm.asia/wp-content/uploads/2017/02/mie-aceh-coba-rasa.jpg',
+      'https://img.okezone.com/content/2021/05/09/298/2407970/tips-cara-bikin-mie-aceh-sendiri-di-rumah-dijamin-enaknya-nagih-BY7R1eFh6p.jpg',
+	  'https://img.inews.co.id/files/inews_new/2020/10/22/resep_mie_aceh_rebus.jpg'
+    ],
+	
+2. Karee kameng
+name: 'Karee kameng',
+khasDaerah: 'Aceh',
+description:
+        'Karee kameng adalah makanan tradisional dari Aceh. Makanan ini juga merupakan sajian yang paling favorit oleh warga Aceh. Karee kameng alias kari kambing adalah lauk yang hampir selalu ada disetiap di kedai nasi maupun di berbagai perhelatan. Dibanyak keude bu (kedai nasi), kari ini terpampang didepan kedai dalam kuali atau wajan besar yang selalu dipanaskan.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Aceh Karee kameng',
+kisaranHarga: 'Rp 10000-25000',
+imageAsset: 'images/makanan/Karee_kameng_aceh.jpg',
+imageUrls: [
+      'https://correcto.id/content/images/th1_2020050108112091769.jpg',
+      'https://pdbifiles.nos.jkt-1.neo.id/files/2017/09/20/andri77_Karee_Kameng.jpg',
+      'https://pdbifiles.nos.jkt-1.neo.id/files/2017/08/19/apriyn7_gulaiSieKameeng.jpg',
+	  'https://pdbifiles.nos.jkt-1.neo.id/files/2017/09/20/andri77_Karee_Kameng.jpg'
+    ],
+
+3. Gulaie Keumamah
+name: 'Gulaie Keumamah',
+khasDaerah: 'Aceh',
+description:
+        'Keumamah Ikan kayu khas Aceh di kenal juga dengan nama Gulaie Keumamah atau lebih populer di sebut Eungkot Kayee. Pada dasarnya, Keumamah Ikan kayu khas Aceh adalah daging ikan tongkol yang di rebus, kemudian di keringkan dengan cara diasap, karena ikan kering menjadi keras seperti kayu. Maka di sebut juga sebagai ikan kayu ( engkot kayee ). Orang Jepang juga mengenal ikan kering seperti ini, di sebut katsubushi.biasanya di serut halus sebagai penyedap rasa berbagai kuah.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Aceh Gulaie Keumamah',
+kisaranHarga: 'Rp 15000-30000',
+imageAsset: 'images/makanan/Keumamah_ikan_kayu_aceh.jpg',
+imageUrls: [
+      'https://indonesia.go.id/assets/upload/headline/1599138137_ikan_kayu_keumama_thumb.jpeg',
+      'https://img-global.cpcdn.com/recipes/db2b16ff2da4dd15/751x532cq70/keumamah-aceh-foto-resep-utama.jpg',
+      'https://img-global.cpcdn.com/recipes/c54abb3a8a935d5b/751x532cq70/ikan-keumamah-foto-resep-utama.jpg',
+	  'https://merahputih.com/media/c1/dc/17/c1dc17933f1b391fcec3fdf0d1ada345.jpg'
+    ],
+
+4. Bika Ambon
+name: 'Bika Ambon',
+khasDaerah: 'Sumatera Utara',
+description:
+        'Makanan khas di Sumatera Utara khususnya Medan adalah Bika Ambon. Bika Ambon ini enak banget! Kadang juga dijual dengan rasa lain, seperti durian dan keju. Rasanya manis dan lembut.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Sumatera Utara Bika Ambon',
+kisaranHarga: 'Rp 11000-30000',
+imageAsset: 'images/makanan/BikaAmbon_Ambon.jpg',
+imageUrls: [
+      'https://img.okezone.com/content/2020/06/12/298/2229217/cara-membuat-bika-ambon-khas-medan-lembut-di-mulut-HWbOWCuHyP.jpg',
+      'https://pict.sindonews.net/dyn/850/pena/news/2020/12/05/185/257622/ini-dia-cara-bikin-bika-ambon-yang-manis-dan-kenyal-di-mulut-vdo.png',
+      'https://www.tagar.id/Asset/uploads2019/1642046477378-resep-bika-ambon.jpeg'
+    ],
+
+5. Ayam pinadar
+name: 'Ayam pinadar',
+khasDaerah: 'Sumatera Utara',
+description:
+        'Ayam pinadar juga lazim disebut manuk na pinadar. Masakan ini adalah ayam bakar khas Batak toba yang sungguh memukau.pedasnya pol karena memakai andaliman, tetapi juga pol karena memakai bahan yang juga pol karena memakai bahan yang sangat unik yaitu menggunakan hati ayam dan gota (darah ayam). Tentu saja, karena berbagai pertimbangan, sekarang masakan ini tidak menggunakan gota atau darah ayam lagi.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Sumatera Utara Ayam',
+kisaranHarga: 'Rp 13000-25000',
+imageAsset: 'images/makanan/AyamPinadar_medan.jpeg',
+imageUrls: [
+      'https://img-global.cpcdn.com/recipes/cba2f101ff8852d9/680x482cq70/ayam-pinadar-yummy-foto-resep-utama.jpg',
+      'https://www.ninna.id/wp-content/uploads/2021/09/pinadarkelapagongseng.jpeg',
+      'https://s2.bukalapak.com/img/7011206771/large/images__2__scaled.jpg'
+    ],
+
+6. Anyang Pakis
+name: 'Anyang Pakis',
+khasDaerah: 'Sumatera Utara',
+description:
+        'Di provinsi Sumatera Utara tepatnya di kabupaten Asahan, terdapat makanan khas daerah tersebut yang dinamakan dengan anyang pakis. Makanan khas Sumatera Utara ini dibuat dari tanaman pakis atau tanaman paku kemudian diberi bumbu tambahan berupa kelapa hasil penyangraian. Sekilas tampilannya mirip dengan urapan, namun penggunaan kelapa sangrai yang mirip serundeng menjadi pembeda antara keduanya. Padahal walau ditilik lebih lanjut, bumbu yang digunakan sangatlah mirip, yakni ada daun jeruk, bawang merah, ketumbar, dan serai.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Sumatera Utara ANYANG',
+kisaranHarga: 'Rp 12000-24000',
+imageAsset: 'images/makanan/AnyangPakis_medan.jpg',
+imageUrls: [
+      'https://img-global.cpcdn.com/recipes/d6830b1333665e6e/680x482cq70/anyang-pakis-melayu-foto-resep-utama.jpg',
+      'https://img-global.cpcdn.com/recipes/fc82a2ddfb67e3c6/1200x630cq70/photo.jpg',
+      'https://img-global.cpcdn.com/recipes/c196adc312d94064/1200x630cq70/photo.jpg'
+    ],
+
+7. Bihun Bebek
+name: 'Bihun Bebek',
+khasDaerah: 'Sumatera Utara',
+description:
+        'Di Medan terdapat sebuah kedai yang sederhana namun punya olahan bernama Bihun Bebek Asie yang disebut-sebut sebagai olahan bihun bebek paling mahal seantero Medan. Harga satu porsinya saja bisa mencapai 60 ribu rupiah lebih, padahal hanya berisi satu mangkuk bihun dan daging bebek saja. Tapi tunggu dulu, karena ada harga ada kualitas, pada satu mangkuknya, bihun bebek yang juga dikenal dengan nama bihun bebek kumango ini terdapat suwiran daging bebek yang melimpah bercampur kuahnya yan super enak. Belum lagi rasa bihunnya yang khas menjadikannya tidak ada duanya di dunia ini.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Sumatera Utara BIHUN BEBEK',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/BihunBebek_medan.jpg',
+imageUrls: [
+      'https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/04/20/resep-bihun-bebek-menu-sarapan-20210420083023.jpg',
+      'https://img-global.cpcdn.com/recipes/f8185a70ad354237/680x482cq70/bihun-bebek-medan-foto-resep-utama.jpg',
+      'https://www.pegipegi.com/travel/wp-content/uploads/2019/01/shutterstock_775771732.jpg',
+	  'https://www.nibble.id/wp-content/uploads/2017/03/bihun-bebek-di-jakarta-08.jpg'
+    ],
+
+8. Rendang
+name: 'Rendang',
+khasDaerah: 'Sumatera Barat',
+description:
+        'Sumatera Barat terkenal dengan makanan Padang yang berasal dari kota Padang. Makanan yang banyak rempahnya ini mempunyai rasa yang kuat. Rendang adalah salah satu masakan Padang yang menjadi favorit banyak orang Indonesia bahkan sampai luar negeri.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Sumatera Barat rendang',
+kisaranHarga: 'Rp 8000-15000',
+imageAsset: 'images/makanan/Rendang_padang.jpg',
+imageUrls: [
+      'https://img.inews.co.id/media/600/files/inews_new/2020/08/24/resep_rendang_sapi.jpg',
+      'https://images.solopos.com/2020/07/rendang-.jpg',
+      'https://images.solopos.com/2020/07/rendang-.jpg',
+	  'https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/18/977833/content_images/670x335/20180518134553-1-ilustrasi-rendang-002-yoga-tri-priyanto.jpg'
+    ],
+
+9. Gulai Ikan Patin
+name: 'Gulai Ikan Patin',
+khasDaerah: 'Jambi',
+description:
+        'Gulai Ikan Patin adalah masakan yang populer di masyarakat Jambi.Gulai ini dimasak dengan menggunakan tempoyak yaitu daging buah durian yang telah difermentasi. Tetapi ada sebagian orang yang memilih untuk mengganti tempoyak dengan santan kelapa untuk menghindari bau dan rasa tempoyak yang cukup menyengat.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Jambi Gulai Ikan Patin',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/Gulaiikan_patin_Jambi.jpg',
+imageUrls: [
+      'https://img-global.cpcdn.com/recipes/e8508c576f77ba25/1200x630cq70/photo.jpg',
+      'https://www.katakini.com/webmin/images/posts/1/2022/2022-02-15/e43211ae3a4e721aa393a61da03ddf0d_1.jpg',
+      'https://img-global.cpcdn.com/recipes/01b5a101c1c503fa/680x482cq70/gulai-ikan-patin-foto-resep-utama.jpg',
+	  'https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/07/26/2400548595.jpg'
+    ],
+
+10. Pendap
+name: 'Pendap',
+khasDaerah: 'Bengkulu',
+description:
+        'Pendap merupakan makanan bercitarasa pedas yang sangat populer di Provinsi Bengkulu. Pendap terdiri dari bahan ikan yang dicampur dengan beberapa bahan utama, seperti bawang putih, kencur, cabai giling, kelapa muda yang kemudian dimasak dalam balutan daun talas.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Bengkulu Pendap',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/Pendap_Bengkulu.jpeg',
+imageUrls: [
+      'https://www.jejakpiknik.com/wp-content/uploads/2019/07/Pendap-Foto-By-bengkuluinteraktif.com_-630x380.jpg',
+      'https://www.poernama.com/wp-content/uploads/2021/04/20210404_092113_600x400.jpg',
+      'https://cdn-2.tstatic.net/travel/foto/bank/images/pendap_20170816_152206.jpg'
+    ],
+
+11. Gulai Belacan
+name: 'Gulai Belacan',
+khasDaerah: 'Riau',
+description:
+        'Gulai Belacan salah satu masakan khas dari Riau, gulai ini dibuat dengan kuah campuran belacan atau terasi. Bahannya biasanya memakai udang atau ikan.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Riau Gulai Belacan',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/Gulai_Belacan_riau.jpg',
+imageUrls: [
+      'https://img-global.cpcdn.com/recipes/90d1541fb18a907e/751x532cq70/500-gulai-belacan-khas-riau-foto-resep-utama.jpg',
+      'https://www.phiradio.net/wp-content/uploads/2021/11/gulai-belacan.jpg',
+      'https://suaralama.id/wp-content/uploads/2021/06/GULAI-BELACAN.png'
+    ],
+
+12. Pempek
+name: 'Pempek',
+khasDaerah: 'Sumatera Selatan',
+description:
+        'Di Sumatera Selatan terkenal makanan Pempek. Pempek terbuat dari ikan dan sagu. Penyajiannya ditemani dengan kuah coklat yang disebut cuko. Cuko terbuat dari air yang dididihkan, kemudian ditambah gula merah, udang ebi dan cabe rawit tumbuk, bawang putih, dan garam.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Sumatera Selatan Pempek',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/Pempek_SumateraSelatan.jpg',
+imageUrls: [
+      'https://cdn-brilio-net.akamaized.net/news/2019/10/10/172071/1109685-14-cara-membuat-pempek-palembang-paling-enak.jpg',
+      'https://cdn-2.tstatic.net/tribunnews/foto/bank/images/tips-mengatasi-adonan-pempek-yang-kelembekan.jpg',
+      'https://doyanresep.com/wp-content/uploads/2020/02/resep-pempek-palembang.jpg',
+	  'https://img.okezone.com/content/2020/12/03/298/2321042/resep-pempek-dos-udang-rebon-rasanya-jos-n1FGhLyt0x.jpg'
+    ],
+
+13. Mi Bangka
+name: 'Mi Bangka',
+khasDaerah: 'Bangka Belitung',
+description:
+        'Mie atau Mi Bangka adalah salah satu dari sekian banyak ciri khas masyarakat pulau bangka, terbuat dari mie basah (kuning) biasa yang disiram dengan kuah berbumbu yang biasanya terbuah dari ikan, udang, cumi, atau kepiting. dan seringkali ditambahi dengan toge atau kecambah, mentimun atau timun, dan kerupuk, lezat bila dihidangkan waktu masih panas, dan ditambahi rasa pedas dari cabe.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Belitung Mi Bangka',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/MieBangka_BangkaBelitung.jpg',
+imageUrls: [
+      'https://www.katakini.com/webmin/images/posts/1/2022/2022-02-16/cd5010bd1371df3de3836dd48c5435dc_1.jpg',
+      'https://img-global.cpcdn.com/recipes/dba720f736618798/400x400cq70/photo.jpg',
+      'https://sweetrip.id/wp-content/uploads/2020/08/resepmasakankhas_117049141_964584880652802_2025952895403574446_n.jpg',
+	  'https://www.nibble.id/uploads/Mie-bangka-pesona-travel.jpg'
+    ],
+
+14. Seruit
+name: 'Seruit',
+khasDaerah: 'Lampung',
+description:
+        'Seruit adalah makanan khas provinsi Lampung, yaitu masakan ikan yang digoreng atau dibakar dicampur sambel terasi, tempoyak (olahan durian) atau mangga.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Lampung Seruit',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/Seruit_Lampung.jpg',
+imageUrls: [
+      'https://img.kliknusae.com/uploads/2019/12/Seruit-Lampung.jpg',
+      'https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/seruittt.jpg',
+      'https://merahputih.com/media/26/5a/94/265a9454466b23bcd7aa6e3f9ca5e08b.jpg',
+	  'https://www.lampost.co/upload/900d2d2978999f7856684e731622afd9.jpg'
+    ],
+
+15. Sate Bandeng
+name: 'Sate Bandeng',
+khasDaerah: 'Banten',
+description:
+        'Sate Bandeng merupakan makanan khas Banten. Berbeda dengan ikan bandeng biasa, daging sate bandeng empuk dan tidak bertulang. Sate bandeng menggunakan gula coklat dan santan. Karena kekhasannya, sate bandeng menjadi oleh-oleh dari Banten.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Banten Sate Bandeng',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/SateBandeng_Banten.jpg',
+imageUrls: [
+      'https://media.suara.com/pictures/653x366/2019/12/12/88366-sate-bandeng-khas-banteb-instagramatsate-bandeng.jpg',
+      'https://phinemo.com/wp-content/uploads/2018/01/sate-bandeng1.jpg',
+      'https://www.reseppedia.com/storage/upload/Resep_Masakan_Sate_Bandeng_(Banten).jpg',
+	  'https://cdn-2.tstatic.net/banten/foto/bank/images/ilustrasi-sate-bandeng.jpg'
+    ],
+
+16. Kerak Telor
+name: 'Kerak Telor',
+khasDaerah: 'Jakarta',
+description:
+        'Kerak Telor adalah makanan asli daerah Jakarta (Betawi), dengan bahan-bahan beras ketan putih, telur ayam, ebi (udang kering yang diasinkan) yang disangrai kering ditambah bawang merah goreng, lalu diberi bumbu yang dihaluskan berupa kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam dan gula pasir. Saya sudah pernah coba dan ini enak banget!.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Jakarta Betawi Kerak Telor',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/Kerak_Telor_Jakarta.jpg',
+imageUrls: [
+      'https://www.resepkuerenyah.com/wp-content/uploads/2020/08/Resep-Kerak-Telor.jpg',
+      'https://sweetrip.id/wp-content/uploads/2021/10/julie_in_bali_230134577_387160129475942_7979102418308754760_n.jpg',
+      'https://img-global.cpcdn.com/recipes/35d4762174f48b5e/680x482cq70/kerak-telor-betawi-foto-resep-utama.jpg',
+	  'https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/5/22/43593bac-5bc7-4895-b3c6-9ffed43d0fa0.jpg'
+    ],
+
+17. Serabi
+name: 'Serabi',
+khasDaerah: 'Jawa Barat',
+description:
+        'Serabi Kadang biasa disebut srabi terbuat dari tepung beras dan kuah cair manis. Manis dan menggugah selera.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Jawa Barat Serabi',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/Serabi_JawaBarat.jpg',
+imageUrls: [
+      'hhttps://blog.tokowahab.com/wp-content/uploads/2019/11/Resep-Kue-Serabi-Solo.jpg',
+      'https://www.resepkuerenyah.com/wp-content/uploads/2016/11/18.-resep-kue-serabi-tepung-beras.jpg',
+      'https://media.suara.com/pictures/970x544/2022/04/05/80436-serabi-solo.jpg',
+	  'https://img.inews.co.id/media/822/files/inews_new/2021/03/28/serabi_kocor.jpg'
+    ],
+
+18. Lunpia
+name: 'Lunpia',
+khasDaerah: 'Jawa Tengah',
+description:
+        'unpia adalah makanan khas Jawa Tengah khususnya kota Semarang. Makanan ini berisi rebung, telur, dan daging udang. Setelah dibungkus bisa dimakan langsung, bisa juga digoreng. Saya suda pernah makan lunpia di Semarang dan rasanya bikin ketagihan!.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Jawa Tengah Lunpia',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/Lunpia_JawaTengah.jpg',
+imageUrls: [
+      'https://cdns.klimg.com/dream.co.id/resized/640x320/news/2022/02/05/190957/mau-lumpia-enak-di-semarang-lunpia-cinde-wajib-jadi-buruan-220205r.jpg',
+      'https://img-global.cpcdn.com/recipes/3cbe9fbb9acc6129/680x482cq70/lunpia-semarang-foto-resep-utama.jpg',
+      'https://thumbs.dreamstime.com/b/lumpia-lunpia-traditional-snack-semarang-central-java-indonesia-lumpia-lunpia-traditional-snack-semarang-221459279.jpg',
+	  'https://info-kuliner.com/wp-content/uploads/2015/02/Lunpia-Mataram-6.jpg'
+    ],
+
+19. Nasi Gudeg
+name: 'Nasi Gudeg',
+khasDaerah: 'Yogyakarta',
+description:
+        'Nasi Gudeg, makanan khas D.I. Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan. Gudeg dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tahu dan sambal goreng krecek. Mantap!.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Yogyakarta Nasi Gudeg',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/NasiGudeg_Yogyakarta.jpg',
+imageUrls: [
+      'http://annafoodcateringjogja.com/wp-content/uploads/2019/10/nasi-box-gudeg-jogja-enak-halal-murah.jpg',
+      'https://www.tagar.id/Asset/uploads2019/1569685882487-gudeg.jpg',
+      'https://img-global.cpcdn.com/recipes/4c4ddae26909def8/751x532cq70/nasi-gudeg-presto-foto-resep-utama.jpg',
+	  'https://img-global.cpcdn.com/recipes/4c4ddae26909def8/751x532cq70/nasi-gudeg-presto-foto-resep-utama.jpg'
+    ],
+
+20. Rujak Cingur
+name: 'Rujak Cingur',
+khasDaerah: 'Jawa Timur',
+description:
+        'Rujak Cingur adalah salah satu makanan tradisional yang mudah ditemukan di daerah Jawa Timur, terutama daerah asalnya Surabaya. Cingur sendiri berrati mulut. Makanan ini memang menyajikan mulut sapi. Biasanya dihidangkan dengan sayuran kemudian diberi bumbu yang terbuat dari olahan petis udang, air matang, gula/gula merah, cabai, kacang tanah yang digoreng, bawang goreng, garam dan irisan tipis-tipis pisang biji hijau yang masih muda (pisang klutuk). Rsanya sedap!.',
+jenisFood: 'Makanan',
+shortDesc: 'Makanan Khas Daerah Jawa Timur Rujak Cingur',
+kisaranHarga: 'Rp 10000-20000',
+imageAsset: 'images/makanan/RujakCingur_JawaTimur.jpg',
+imageUrls: [
+      'https://img-global.cpcdn.com/recipes/5e0544eefc0f9b3b/400x400cq70/photo.jpg',
+      'hhttps://www.tagar.id/Asset/uploads2019/1569685882487-gudeg.jpg',
+      'https://www.bango.co.id/gfx/recipes/1431991573.jpg',
+	  'https://www.madiunpos.com/files/2020/07/rujak-cingur.jpeg'
+    ],
+
